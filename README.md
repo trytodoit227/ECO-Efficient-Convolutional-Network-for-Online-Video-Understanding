@@ -34,3 +34,6 @@ batch size: 32
 2D网络：Kinetics预训练权重
 3D网络：某篇参考论文[15]中的预训练权重，详情参考原论文引用列表。
 针对某些特殊数据集进行了额外的微调。
+
+论文复现课程链接如下：
+论文复现课程链接：https://aistudio.baidu.com/aistudio/education/group/info/1340
